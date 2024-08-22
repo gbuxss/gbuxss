@@ -9,7 +9,7 @@ I have over 5 years of experience as an Automation Engineer, with extensive expe
 *   🌍  I'm based in Chicago
 *   ✉️  You can contact me at [jdhamala095@gmail.com](mailto:jdhamala095@gmail.com)
 *   🧠  I'm learning Java
-*   🤝  I'm open to collaborating on any Java development projects, development projects.
+*   🤝  I'm open for collaborating on any Java development projects, development projects.
 *   ⚡  I'm guitarist, photographer
 *   ### Skills 
 <p align="left">
