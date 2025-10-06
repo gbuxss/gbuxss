@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA Automation Engineer:
 -----------------------
 
-I have over 5 years of experience as an Automation Engineer, with extensive expertise in building automation frameworks using Selenium and Java. I am trying to transition from a QA Automation Engineer role to a Java Developer role.
+I have over 5 years of experience as an Automation Engineer, with extensive expertise in building automation frameworks using Selenium and Java.
 
 *   🌍  I'm based in Chicago
 *   ✉️  You can contact me at [jdhamala095@gmail.com](mailto:jdhamala095@gmail.com)
